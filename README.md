@@ -1,5 +1,5 @@
 # stealth-extension
-This repository contains a stand-alone Firefox extension containing the same spoofing functionality than our [https://github.com/Flnch/OpenWPM/tree/issue-448-webdriver_attr](stealth version of OpenWPM). That is, the JavaScript `window.navigator.webdriver` attribute is spoofed to `false`.
+This repository contains a stand-alone Firefox extension containing the same spoofing functionality than our (stealth version of OpenWPM)[https://github.com/Flnch/OpenWPM/tree/issue-448-webdriver_attr]. That is, the JavaScript `window.navigator.webdriver` attribute is spoofed to `false`.
 
 ## How to build
 Execute `build.sh`. It creates the Firefox extension file `stealth-extension.xpi`.
